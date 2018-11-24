@@ -7,19 +7,6 @@ import br.com.ufc.dao.PokemonDAO;
 import br.com.ufc.service.PokemonService;
 import br.com.ufc.view.PokedexUiRequest;
 
-//public class PokedexApp {
-//	private int op;
-//	private int id;
-//	private PokemonDAO pkDAO = new PokemonDAO();
-//	private Scanner in = new Scanner(System.in);
-//	private PokemonService pkService = new PokemonService(pkDAO);
-//    private PokedexUiRequest pkUiRequest  = new PokedexUiRequest();
-//    private PokedexController pkController = new PokedexController(pkService);
-//
-//    public void pokedexStart(){
-//    	pkDAO.populateDatabase();
-
-
 public class PokedexApp {
 	private int op;
 	private int id;
