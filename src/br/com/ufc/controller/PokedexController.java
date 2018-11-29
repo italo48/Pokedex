@@ -10,9 +10,9 @@ public class PokedexController {
 	public PokedexController(PokemonService pkServiceInject) {
 		this.pkService = pkServiceInject;
 	}
-    public void leavePokedex() {
-    	pkUiResp.messageBye();
-    }
+    	public void leavePokedex() {
+		pkUiResp.messageBye();
+    	}
 	public void listPokemons() {
 		pkUiResp.showListPokemons(pkService.listPokemons());
 	}
