@@ -13,8 +13,8 @@ public class PokedexApp {
 	private Scanner in;
 	private PokemonDAO pkDAO;
 	private PokemonService pkService;
-    private PokedexUiRequest pkUiRequest;
-    private PokedexController pkController;
+    	private PokedexUiRequest pkUiRequest;
+    	private PokedexController pkController;
 
     public void pokedexStart(){
     	pkDAO = new PokemonDAO();
