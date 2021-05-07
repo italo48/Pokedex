@@ -8,4 +8,5 @@ Simples programa em Java para demonstrar o uso de uma "arquitetura MVC" em progr
 
 #### Tecnologias
 - [Java 8](https://www.java.com/pt-BR/)
+- [MVC](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/arqu/mvc/mvc.htm)
 
